@@ -7,7 +7,7 @@
     "appodealAppKey": "6c2833b3297df1ebc78c0bfe2724d4f198ba063fabd0da77",
     "appodealInterstitialNonSkippable": false,
     "ownAdsEnabled": true,
-    "ownAdsNetwork": "admob",
+    "ownAdsNetwork": "appodeal",
     "ownAdsSecretRemovalEnabled": false,
     "ownAdsGracePeriodGlobal": 0,
     "ownAdsGracePeriodUpdate": 0,
