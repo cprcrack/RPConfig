@@ -15,5 +15,5 @@
     "ownAdsInterstitialDelay": 10,
     "ytAdsEnabled": false,
     "ytAdsFilters": ["\\.(googleads|doubleclick|fwmrm)|(googleads|doubleclick|fwmrm)\\.","_ads?","csi\\.gstatic","youtube\\.com\/ptracking\\?","2mdn\\.net","phobos\\.apple","topspin\\.net","espn\\.vad\\.go","youtube\\.com\/yva_video\\?"],
-    "remoteAlerts": [],
+    "remoteAlerts": []
 }
