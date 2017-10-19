@@ -9,11 +9,39 @@
     "ownAdsEnabled": true,
     "ownAdsNetwork": "appodeal",
     "ownAdsSecretRemovalEnabled": false,
-    "ownAdsGracePeriodGlobal": 7,
-    "ownAdsGracePeriodUpdate": 1,
+    "ownAdsGracePeriodGlobal": 0,
+    "ownAdsGracePeriodUpdate": 0,
     "ownAdsInterstitialShowInitial": true,
     "ownAdsInterstitialDelay": 10,
     "ytAdsEnabled": false,
     "ytAdsFilters": ["\\.(googleads|doubleclick|fwmrm)|(googleads|doubleclick|fwmrm)\\.","_ads?","csi\\.gstatic","youtube\\.com\/ptracking\\?","2mdn\\.net","phobos\\.apple","topspin\\.net","espn\\.vad\\.go","youtube\\.com\/yva_video\\?"],
-    "remoteAlerts": []
+    "remoteAlerts":
+    [
+        {
+            "id": 1,                             
+            "title": "Title1",                    
+            "message": "Message1",                
+            "btnOk": "OK1",                       
+            "btnCancel": "Cancel1",               
+            "uri": "http://ratingspreview1.com",  
+            "cancelable": true,                  
+            "permanent": true,                   
+            "deviceOs": ["android", "ios"],      
+            "appVersionNames": ["5.0", "5.1"],   
+            "appVersionCodes": [11, 12, 13]      
+        },
+        {
+            "id": 2,                             
+            "title": "Title2",                    
+            "message": "Message2",                
+            "btnOk": "OK2",                       
+            "btnCancel": "Cancel2",               
+            "uri": "http://ratingspreview2.com",  
+            "cancelable": true,                  
+            "permanent": true,                   
+            "deviceOs": ["android", "ios"],      
+            "appVersionNames": ["6.1", "6.2"],   
+            "appVersionCodes": [20, 21, 22, 23, 24]      
+        }
+    ]
 }
