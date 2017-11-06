@@ -11,8 +11,8 @@
     "ownAdsSecretRemovalEnabled": false,
     "ownAdsGracePeriodGlobal": 0,
     "ownAdsGracePeriodUpdate": 0,
-    "ownAdsInterstitialShowInitial": false,
-    "ownAdsInterstitialDelay": 60,
+    "ownAdsInterstitialShowInitial": true,
+    "ownAdsInterstitialDelay": 60000,
     "ytAdsEnabled": false,
     "ytAdsFilters": ["\\.(googleads|doubleclick|fwmrm)|(googleads|doubleclick|fwmrm)\\.","_ads?","csi\\.gstatic","youtube\\.com\/ptracking\\?","2mdn\\.net","phobos\\.apple","topspin\\.net","espn\\.vad\\.go","youtube\\.com\/yva_video\\?"],
     "remoteAlerts": []
