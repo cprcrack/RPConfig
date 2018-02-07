@@ -6,14 +6,14 @@
     "admobInterstitialId": "ca-app-pub-7574311354320240/6669500429",
     "appodealAppKey": "6c2833b3297df1ebc78c0bfe2724d4f198ba063fabd0da77",
     "appodealInterstitialNonSkippable": false,
-    "ownAdsEnabled": true,
+    "ownAdsEnabled": false,
     "ownAdsNetwork": "admob",
     "ownAdsSecretRemovalEnabled": false,
     "ownAdsGracePeriodGlobal": 0,
     "ownAdsGracePeriodUpdate": 0,
     "ownAdsInterstitialShowInitial": true,
     "ownAdsInterstitialDelay": 60,
-    "ytAdsEnabled": false,
+    "ytAdsEnabled": true,
     "ytAdsFilters": ["\\.(googleads|doubleclick|fwmrm)|(googleads|doubleclick|fwmrm)\\.","_ads?","csi\\.gstatic","youtube\\.com\/ptracking\\?","2mdn\\.net","phobos\\.apple","topspin\\.net","espn\\.vad\\.go","youtube\\.com\/yva_video\\?"],
     "remoteAlerts": []
 }
