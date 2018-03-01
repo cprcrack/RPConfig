@@ -10,7 +10,7 @@
     "ownAdsNetwork": "admob",
     "ownAdsSecretRemovalEnabled": false,
     "ownAdsGracePeriodGlobal": 30,
-    "ownAdsGracePeriodUpdate": 0,
+    "ownAdsGracePeriodUpdate": 30,
     "ownAdsInterstitialShowInitial": true,
     "ownAdsInterstitialDelay": 60,
     "ytAdsEnabled": true,
